@@ -25,5 +25,11 @@ const CardList = (props) => (
 );
 ```
 - https://jscomplete.com/playground/rgs2.4
+- map() takes a function as an argument & converts one array to another array using the return values in the function
+```
+[<Card /><Card />,<Card />]
+// It will render an array of card elements 
+[React.createElement(),React.createElement(),React.createElement()]
+```
 
 Github Cards to display info about the users using React.js
