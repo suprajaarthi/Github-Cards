@@ -31,11 +31,14 @@ const CardList = (props) => (
 // It will render an array of card elements 
 [React.createElement(),React.createElement(),React.createElement()]
 ```
-- https://jscomplete.com/playground/rgs2.4
+- https://jscomplete.com/playground/rgs2.5
 
 - https://jscomplete.com/playground/s907660
   - Add an input box and log the value using Refs 
-- https://jscomplete.com/playground/rgs2.5
+
+- https://jscomplete.com/playground/rgs2.6
+  -Log user entered value using OnChange
+
 
 
 Github Cards to display info about the users using React.js
