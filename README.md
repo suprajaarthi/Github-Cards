@@ -32,6 +32,9 @@ const CardList = (props) => (
 [React.createElement(),React.createElement(),React.createElement()]
 ```
 - https://jscomplete.com/playground/rgs2.4
+  - Add an input box and log the value using Refs 
+  - https://jscomplete.com/playground/s907660
+  
 - https://jscomplete.com/playground/rgs2.5
 
 
