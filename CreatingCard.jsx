@@ -28,7 +28,7 @@ ReactDOM.render(
   mountNode,
 );
 
-// *** The React 18 way:
+// The React 18 way:
 // root.render(
 //   <App title="The GitHub Cards App" />,
 // );
