@@ -9,7 +9,7 @@
 const CardList = (props) => (
 	<div>
   	<Card {...testData[0]} />
-    <Card {...testData[1]} />
+        <Card {...testData[1]} />
 	</div>
 );
 
