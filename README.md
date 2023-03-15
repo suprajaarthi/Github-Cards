@@ -37,7 +37,7 @@ const CardList = (props) => (
   - Add an input box and log the value using Refs 
 
 - https://jscomplete.com/playground/rgs2.6
-  - Log user entered value using OnChange
+  - Log user entered value using setState and OnChange
 
 
 
