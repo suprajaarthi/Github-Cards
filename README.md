@@ -2,6 +2,9 @@
 
 **To Fetch Github User details https://api.github.com/users/suprajaarthi**
 
+![image](https://user-images.githubusercontent.com/51900501/225289440-5994bd84-6132-44a4-ba4b-c54018fc50ee.png)
+
+
 - https://jscomplete.com/playground/rgs2.1
 - https://jscomplete.com/playground/rgs2.2
 - https://jscomplete.com/playground/rgs2.3
