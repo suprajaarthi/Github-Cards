@@ -31,5 +31,8 @@ const CardList = (props) => (
 // It will render an array of card elements 
 [React.createElement(),React.createElement(),React.createElement()]
 ```
+- https://jscomplete.com/playground/rgs2.4
+- https://jscomplete.com/playground/rgs2.5
+
 
 Github Cards to display info about the users using React.js
